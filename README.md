@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imran Mohammed</h1>
 <h3 align="center">CSE Undergraduate | Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imransanvi&label=Profile%20views&color=0e75b6&style=flat" alt="imransanvi" /> </p>
-
 - 🌱 I’m currently learning **MongoDB, Express.js, React, and Node.js.**
 
 <h3 align="left">Connect with me:</h3>
