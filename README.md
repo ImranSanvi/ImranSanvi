@@ -14,8 +14,8 @@
 ## 📊 My Problem Solving Stats
 
 -  Codeforces : [Im_ran](https://codeforces.com/profile/Im_ran)
--  LeetCode   : [Im_ran](https://leetcode.com/u/imran_rs/)
--  Codechef   : [Im_ran](https://www.codechef.com/users/rakib_20)
+-  LeetCode   : [imran_rs](https://leetcode.com/u/imran_rs/)
+-  Codechef   : [im_ran](https://www.codechef.com/users/im_ran)
 -  Solved     : 1000+ problems
 
 
@@ -23,7 +23,7 @@
 
 ## 📈 GitHub Stats
 
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=smhasan20&show_icons=true&theme=tokyonight)
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImranSanvi&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## 🧮 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smhasan20&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImranSanvi&layout=compact&theme=tokyonight)
 
 ---
 
